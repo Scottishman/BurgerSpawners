@@ -24,7 +24,7 @@ For example: A single Zombie Spawner spawns one Zombie every 40 seconds. Stackin
 - [ ] Autostack spawners when placed near another spawner of the same type
 - [ ] Allow changing of the entity scale within the Spawner
 # Note
-- Pandas drop Emeralds instead of Bamboo
-- Bats, Ocelots, Vex, Witches, Silverfish and Endermite have no drops
-- Sheep drop a random color of wool
+- Pandas drop Sugar Cane Instead of Bamboo
+- Bats, Ocelots, Vex, Witches, Silverfish and Endermite have similar drops to their counter part.
+- Sheep drop White instead of  random collored wool
 
